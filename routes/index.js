@@ -44,8 +44,13 @@ router.get('/dashboard', function (req, res, next) {
 });
 
 router.get('/api/login',function(req,res,next) {
-	console.log('Hola moises2');
-	res.json("hola mundo");
+	var auth = {
+		login: 'true',
+		name: 'Abraham Moises',
+		apellido: 'Linares Oscco',
+		ruc: '10425162531'
+	}	
+	res.json(auth);
 });
 
 module.exports = router;
