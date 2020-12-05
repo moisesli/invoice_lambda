@@ -41,7 +41,7 @@ router.get('/', function(req, res, next) {
 });
 
 router.get('/login', function (req, res, next) {
-   res.render('login');
+   res.render('pages/login');
 });
 
 router.get('/dashboard', function (req, res, next) {
