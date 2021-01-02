@@ -12,3 +12,7 @@ exports.ApiLogin = function (req, res) {
 	}	
 	res.json(auth);
 }
+
+exports.register = function (req, res) {
+	res.render('auth/register');
+}
