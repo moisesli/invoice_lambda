@@ -39,6 +39,10 @@ router.get('/login', function (req, res, next) {
 	res.render('pages/login');
 });
 
+router.get('/demo1',function (req, res, next) {
+	res.render('pages/demo1');
+});
+
 router.get('/dashboard', function (req, res, next) {
 	res.render('pages/dashboard');
 });
