@@ -10,7 +10,7 @@ var router = express.Router();
 let awsConfig = {
 	"region": "us-east-1",
 	"endpoint": "http://dynamodb.us-east-1.amazonaws.com",
-	"accessKeyId": "AKIARUGS3XNM5GNW3QUT", "secretAccessKey": "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"
+	"accessKeyId": "AKIARUGS3XNMTHXY6NW2", "secretAccessKey": "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"
 }
 
 /* GET home page. */
