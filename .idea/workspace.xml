@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="968b07ed-8438-4355-9b3f-4a8cedfe567e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/auth/register.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/auth/register.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -80,6 +79,7 @@
       <workItem from="1608784217821" duration="2530000" />
       <workItem from="1608912825839" duration="627000" />
       <workItem from="1609627234556" duration="5215000" />
+      <workItem from="1609830916638" duration="45000" />
     </task>
     <servers />
   </component>
